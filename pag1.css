@@ -1,0 +1,44 @@
+.body{
+    background-image: url(Scre7.jpg);
+    
+    height: 560px;
+    padding-left:50px ;
+    margin-top: 70px;
+}
+
+
+
+
+.w1{
+    
+    background-color: rgb(255, 255, 255);
+    position: fixed;
+    top: 0;
+
+    width: 100%;
+    height: 70px;
+    
+    
+}
+#e1{
+    
+}
+.w2{
+    color: white;
+/* white-space: pre-line;; */
+}
+#e2{
+     
+     background-image:linear-gradient(to bottom ,#3e7bec ,rgb(54, 156, 224)) ;
+     height: 150px;
+     width: 100%;
+     text-align:  right;
+}
+
+.sher{
+    padding: 20px;
+    margin: 10px;
+    background-color: rgb(200, 201, 202) ;
+    width: 300px;
+    float: left;
+}
